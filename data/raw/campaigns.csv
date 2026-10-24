@@ -1,0 +1,121 @@
+campaign_id,campaign_name,campaign_type,channel,start_date,end_date,budget,target_segment,region,status
+CAMP0001,Campaign 001,Reactivation,Display,2022-09-30,2022-10-18,183202.41,SMB,West,Completed
+CAMP0002,Campaign 002,Upsell,Paid Search,2025-01-18,2025-03-02,26065.77,Enterprise,West,Completed
+CAMP0003,Campaign 003,Upsell,Partner,2025-05-29,2025-06-19,81445.43,Consumer,East,Active
+CAMP0004,Campaign 004,Reactivation,Social Media,2022-08-08,2022-09-07,69016.48,Enterprise,West,Completed
+CAMP0005,Campaign 005,Acquisition,Social Media,2025-02-10,2025-04-07,41074.91,SMB,South,Completed
+CAMP0006,Campaign 006,Retention,Paid Search,2024-06-23,2024-08-05,162995.53,Enterprise,West,Active
+CAMP0007,Campaign 007,Cross-sell,Email,2025-02-28,2025-04-14,31022.92,Enterprise,East,Completed
+CAMP0008,Campaign 008,Retention,Paid Search,2023-05-02,2023-06-08,226558.38,Consumer,West,Active
+CAMP0009,Campaign 009,Reactivation,Display,2022-03-15,2022-03-27,197840.34,Enterprise,South,Completed
+CAMP0010,Campaign 010,Retention,Paid Search,2023-08-18,2023-09-29,191499.77,Enterprise,North,Active
+CAMP0011,Campaign 011,Cross-sell,Paid Search,2023-09-09,2023-09-30,229376.7,Enterprise,Global,Completed
+CAMP0012,Campaign 012,Cross-sell,Paid Search,2023-10-18,2023-11-28,80931.33,Consumer,West,Active
+CAMP0013,Campaign 013,Acquisition,Email,2023-07-27,2023-09-19,166786.12,Consumer,Global,Completed
+CAMP0014,Campaign 014,Retention,Email,2022-04-02,2022-05-01,214585.57,Consumer,West,Completed
+CAMP0015,Campaign 015,Reactivation,Social Media,2023-06-24,2023-08-08,167443.38,Consumer,East,Active
+CAMP0016,Campaign 016,Reactivation,Email,2022-05-01,2022-06-08,49721.09,SMB,North,Completed
+CAMP0017,Campaign 017,Cross-sell,Social Media,2023-08-12,2023-08-22,94637.91,Enterprise,Global,Active
+CAMP0018,Campaign 018,Upsell,Paid Search,2025-01-18,2025-02-10,106202.03,Consumer,Global,Planned
+CAMP0019,Campaign 019,Cross-sell,Social Media,2024-05-20,2024-06-14,68521.58,SMB,North,Planned
+CAMP0020,Campaign 020,Acquisition,Display,2025-04-21,2025-05-24,188824.18,SMB,East,Completed
+CAMP0021,Campaign 021,Cross-sell,Partner,2024-12-30,2025-02-14,248016.87,Enterprise,South,Completed
+CAMP0022,Campaign 022,Cross-sell,Paid Search,2022-01-07,2022-02-06,5945.18,Enterprise,Global,Completed
+CAMP0023,Campaign 023,Retention,Display,2025-01-20,2025-02-10,183683.14,SMB,East,Completed
+CAMP0024,Campaign 024,Acquisition,Paid Search,2022-04-25,2022-06-02,12168.58,Enterprise,North,Completed
+CAMP0025,Campaign 025,Reactivation,Display,2023-02-02,2023-03-15,51316.95,SMB,Global,Completed
+CAMP0026,Campaign 026,Acquisition,Social Media,2025-02-22,2025-03-06,158005.42,Consumer,West,Completed
+CAMP0027,Campaign 027,Retention,Partner,2025-01-18,2025-02-10,48023.31,Enterprise,South,Completed
+CAMP0028,Campaign 028,Reactivation,Display,2023-12-15,2023-12-25,167597.67,SMB,South,Completed
+CAMP0029,Campaign 029,Retention,Social Media,2025-01-08,2025-02-26,148315.34,SMB,Global,Completed
+CAMP0030,Campaign 030,Cross-sell,Social Media,2022-05-23,2022-07-17,89619.72,SMB,South,Completed
+CAMP0031,Campaign 031,Acquisition,Social Media,2023-09-22,2023-10-23,218195.71,Consumer,East,Active
+CAMP0032,Campaign 032,Acquisition,Email,2022-05-01,2022-06-11,167795.29,SMB,North,Completed
+CAMP0033,Campaign 033,Reactivation,Email,2022-09-10,2022-10-07,121956.3,SMB,South,Completed
+CAMP0034,Campaign 034,Upsell,Display,2025-03-08,2025-04-29,177784.35,SMB,West,Completed
+CAMP0035,Campaign 035,Acquisition,Paid Search,2025-08-19,2025-09-13,104495.11,Consumer,West,Completed
+CAMP0036,Campaign 036,Reactivation,Email,2022-11-04,2022-11-29,238412.26,SMB,West,Completed
+CAMP0037,Campaign 037,Retention,Email,2022-11-07,2023-01-04,114457.6,Enterprise,West,Completed
+CAMP0038,Campaign 038,Retention,Email,2023-07-25,2023-08-12,216032.09,Consumer,South,Planned
+CAMP0039,Campaign 039,Retention,Partner,2022-12-31,2023-01-31,190377.65,SMB,North,Completed
+CAMP0040,Campaign 040,Reactivation,Partner,2025-08-14,2025-10-10,38701.29,Consumer,West,Planned
+CAMP0041,Campaign 041,Reactivation,Display,2023-04-08,2023-04-27,18376.66,SMB,Global,Active
+CAMP0042,Campaign 042,Acquisition,Email,2022-06-20,2022-07-21,152658.88,Consumer,Global,Planned
+CAMP0043,Campaign 043,Upsell,Display,2022-04-10,2022-04-25,63353.21,Enterprise,North,Completed
+CAMP0044,Campaign 044,Upsell,Paid Search,2024-04-23,2024-05-12,201684.81,Enterprise,Global,Active
+CAMP0045,Campaign 045,Cross-sell,Email,2025-08-14,2025-08-27,192682.5,Consumer,East,Completed
+CAMP0046,Campaign 046,Cross-sell,Social Media,2024-04-13,2024-05-06,153106.17,Enterprise,South,Active
+CAMP0047,Campaign 047,Upsell,Display,2023-06-03,2023-06-22,207783.13,Enterprise,Global,Active
+CAMP0048,Campaign 048,Acquisition,Partner,2025-07-27,2025-09-05,183502.92,SMB,West,Completed
+CAMP0049,Campaign 049,Cross-sell,Partner,2022-12-25,2023-01-11,46398.1,SMB,West,Completed
+CAMP0050,Campaign 050,Cross-sell,Email,2025-03-28,2025-04-30,67443.74,SMB,Global,Completed
+CAMP0051,Campaign 051,Acquisition,Social Media,2024-12-13,2024-12-30,37860.34,SMB,Global,Completed
+CAMP0052,Campaign 052,Acquisition,Display,2025-02-23,2025-04-22,117500.14,Enterprise,North,Active
+CAMP0053,Campaign 053,Acquisition,Email,2022-10-05,2022-11-25,201986.23,Enterprise,West,Active
+CAMP0054,Campaign 054,Upsell,Social Media,2022-01-20,2022-03-15,195372.69,SMB,Global,Completed
+CAMP0055,Campaign 055,Cross-sell,Email,2024-02-13,2024-04-03,128909.45,Enterprise,East,Active
+CAMP0056,Campaign 056,Upsell,Paid Search,2023-12-06,2024-01-18,244510.7,Consumer,East,Completed
+CAMP0057,Campaign 057,Acquisition,Email,2025-05-23,2025-06-10,173322.53,Consumer,Global,Completed
+CAMP0058,Campaign 058,Upsell,Display,2023-02-26,2023-03-08,53755.91,Consumer,South,Completed
+CAMP0059,Campaign 059,Cross-sell,Paid Search,2023-09-08,2023-10-20,83628.86,Enterprise,West,Planned
+CAMP0060,Campaign 060,Upsell,Social Media,2023-03-12,2023-04-15,8215.72,Consumer,South,Completed
+CAMP0061,Campaign 061,Upsell,Paid Search,2023-10-13,2023-12-02,192551.37,Consumer,Global,Completed
+CAMP0062,Campaign 062,Reactivation,Partner,2022-10-25,2022-12-08,120774.8,Enterprise,North,Completed
+CAMP0063,Campaign 063,Reactivation,Display,2022-10-08,2022-11-24,168737.78,Enterprise,West,Completed
+CAMP0064,Campaign 064,Cross-sell,Social Media,2023-01-10,2023-01-27,33477.53,SMB,East,Completed
+CAMP0065,Campaign 065,Retention,Partner,2024-03-04,2024-05-02,200608.87,Enterprise,West,Completed
+CAMP0066,Campaign 066,Reactivation,Partner,2024-09-24,2024-11-13,56341.13,SMB,South,Completed
+CAMP0067,Campaign 067,Upsell,Social Media,2025-06-21,2025-07-22,194741.44,Enterprise,West,Active
+CAMP0068,Campaign 068,Acquisition,Email,2024-07-26,2024-08-08,178220.57,Consumer,Global,Completed
+CAMP0069,Campaign 069,Cross-sell,Social Media,2024-12-23,2025-01-18,27314.03,Enterprise,South,Completed
+CAMP0070,Campaign 070,Cross-sell,Partner,2025-08-09,2025-09-02,150629.25,Enterprise,Global,Completed
+CAMP0071,Campaign 071,Cross-sell,Paid Search,2022-05-18,2022-06-15,72189.28,SMB,West,Planned
+CAMP0072,Campaign 072,Cross-sell,Social Media,2023-04-23,2023-06-02,84772.74,Consumer,North,Planned
+CAMP0073,Campaign 073,Retention,Email,2025-06-08,2025-07-26,177929.7,Enterprise,South,Planned
+CAMP0074,Campaign 074,Reactivation,Email,2024-11-14,2024-12-05,87868.66,Consumer,North,Active
+CAMP0075,Campaign 075,Acquisition,Email,2024-03-01,2024-04-09,67606.63,SMB,West,Completed
+CAMP0076,Campaign 076,Cross-sell,Email,2024-11-15,2024-12-27,235560.21,Enterprise,Global,Completed
+CAMP0077,Campaign 077,Retention,Paid Search,2025-03-09,2025-04-25,142540.67,Consumer,Global,Completed
+CAMP0078,Campaign 078,Cross-sell,Partner,2022-05-23,2022-06-18,183666.55,Enterprise,East,Active
+CAMP0079,Campaign 079,Upsell,Social Media,2023-02-02,2023-03-07,74433.19,Consumer,Global,Active
+CAMP0080,Campaign 080,Retention,Display,2022-01-03,2022-03-02,5334.43,SMB,Global,Planned
+CAMP0081,Campaign 081,Acquisition,Display,2023-04-06,2023-05-13,19306.12,Enterprise,East,Completed
+CAMP0082,Campaign 082,Upsell,Social Media,2024-08-02,2024-09-05,94255.05,Enterprise,East,Completed
+CAMP0083,Campaign 083,Upsell,Partner,2023-12-10,2024-01-13,108494.48,Consumer,North,Completed
+CAMP0084,Campaign 084,Reactivation,Paid Search,2023-03-01,2023-04-19,66724.18,Consumer,West,Completed
+CAMP0085,Campaign 085,Reactivation,Paid Search,2022-04-26,2022-05-27,237337.02,Enterprise,South,Active
+CAMP0086,Campaign 086,Reactivation,Partner,2023-02-24,2023-03-19,27607.79,SMB,Global,Planned
+CAMP0087,Campaign 087,Reactivation,Email,2025-03-02,2025-04-30,55855.87,Consumer,South,Completed
+CAMP0088,Campaign 088,Reactivation,Social Media,2025-02-06,2025-02-24,174598.02,SMB,Global,Completed
+CAMP0089,Campaign 089,Acquisition,Paid Search,2023-05-19,2023-06-15,102302.97,Enterprise,North,Completed
+CAMP0090,Campaign 090,Retention,Social Media,2024-06-30,2024-08-03,152732.94,SMB,East,Completed
+CAMP0091,Campaign 091,Cross-sell,Paid Search,2025-07-23,2025-08-21,68725.5,SMB,North,Planned
+CAMP0092,Campaign 092,Cross-sell,Partner,2022-04-14,2022-05-02,31955.78,Consumer,North,Active
+CAMP0093,Campaign 093,Acquisition,Social Media,2023-06-13,2023-07-13,155317.15,Consumer,East,Completed
+CAMP0094,Campaign 094,Reactivation,Social Media,2024-12-25,2025-02-17,36112.93,SMB,North,Completed
+CAMP0095,Campaign 095,Cross-sell,Display,2023-02-20,2023-03-22,81545.48,Enterprise,West,Completed
+CAMP0096,Campaign 096,Reactivation,Paid Search,2025-05-19,2025-07-10,231093.6,Consumer,West,Active
+CAMP0097,Campaign 097,Reactivation,Email,2025-07-24,2025-08-03,27948.78,SMB,West,Completed
+CAMP0098,Campaign 098,Reactivation,Paid Search,2024-11-22,2025-01-12,241244.7,Consumer,North,Completed
+CAMP0099,Campaign 099,Retention,Email,2023-11-15,2023-12-29,37532.78,SMB,South,Planned
+CAMP0100,Campaign 100,Reactivation,Social Media,2023-07-27,2023-08-10,235406.4,Enterprise,Global,Active
+CAMP0101,Campaign 101,Reactivation,Social Media,2024-05-29,2024-07-19,59275.48,Consumer,East,Completed
+CAMP0102,Campaign 102,Cross-sell,Partner,2022-12-26,2023-01-31,214071.22,SMB,North,Completed
+CAMP0103,Campaign 103,Reactivation,Display,2024-12-19,2025-01-18,241927.36,Consumer,West,Completed
+CAMP0104,Campaign 104,Cross-sell,Social Media,2023-08-05,2023-10-01,157674.81,Enterprise,West,Completed
+CAMP0105,Campaign 105,Upsell,Paid Search,2025-01-10,2025-02-03,107725.56,SMB,South,Completed
+CAMP0106,Campaign 106,Upsell,Email,2022-03-03,2022-04-21,69205.22,Consumer,South,Active
+CAMP0107,Campaign 107,Retention,Email,2024-08-18,2024-09-25,165964.92,SMB,East,Completed
+CAMP0108,Campaign 108,Upsell,Partner,2025-08-01,2025-08-26,166600.47,Consumer,Global,Completed
+CAMP0109,Campaign 109,Cross-sell,Paid Search,2022-03-09,2022-04-19,247276.61,SMB,West,Active
+CAMP0110,Campaign 110,Retention,Paid Search,2023-10-23,2023-11-29,112374.48,Enterprise,West,Active
+CAMP0111,Campaign 111,Cross-sell,Social Media,2024-04-05,2024-04-22,82953.06,Enterprise,East,Completed
+CAMP0112,Campaign 112,Acquisition,Paid Search,2024-09-21,2024-09-30,208026.53,Consumer,East,Active
+CAMP0113,Campaign 113,Acquisition,Display,2022-05-15,2022-07-09,185773.72,Consumer,West,Active
+CAMP0114,Campaign 114,Acquisition,Display,2022-03-29,2022-04-07,102973.14,Enterprise,North,Completed
+CAMP0115,Campaign 115,Cross-sell,Email,2023-11-19,2023-12-22,160992.53,Enterprise,South,Active
+CAMP0116,Campaign 116,Acquisition,Paid Search,2023-06-28,2023-07-06,82929.02,SMB,East,Completed
+CAMP0117,Campaign 117,Retention,Partner,2023-06-11,2023-06-30,110748.37,Enterprise,Global,Completed
+CAMP0118,Campaign 118,Reactivation,Display,2022-05-17,2022-06-19,244809.13,Enterprise,North,Active
+CAMP0119,Campaign 119,Upsell,Paid Search,2025-03-30,2025-05-18,49292.52,SMB,Global,Completed
+CAMP0120,Campaign 120,Upsell,Display,2023-05-07,2023-06-08,206553.87,SMB,East,Planned

@@ -1,0 +1,81 @@
+{
+  "customers": {
+    "rows": 10025,
+    "missing_values_injected": 180,
+    "duplicates_injected": 25,
+    "outliers_injected": 0,
+    "categorical_inconsistencies": 200,
+    "invalid_references": 0
+  },
+  "products": {
+    "rows": 300,
+    "missing_values_injected": 0,
+    "duplicates_injected": 0,
+    "outliers_injected": 0,
+    "categorical_inconsistencies": 0,
+    "invalid_references": 0
+  },
+  "sales_representatives": {
+    "rows": 80,
+    "missing_values_injected": 0,
+    "duplicates_injected": 0,
+    "outliers_injected": 0,
+    "categorical_inconsistencies": 0,
+    "invalid_references": 0
+  },
+  "sales": {
+    "rows": 60075,
+    "missing_values_injected": 720,
+    "duplicates_injected": 75,
+    "outliers_injected": 75,
+    "categorical_inconsistencies": 100,
+    "invalid_references": 85
+  },
+  "leads": {
+    "rows": 15020,
+    "missing_values_injected": 90,
+    "duplicates_injected": 20,
+    "outliers_injected": 0,
+    "categorical_inconsistencies": 40,
+    "invalid_references": 0
+  },
+  "opportunities": {
+    "rows": 6000,
+    "missing_values_injected": 0,
+    "duplicates_injected": 0,
+    "outliers_injected": 0,
+    "categorical_inconsistencies": 0,
+    "invalid_references": 0
+  },
+  "campaigns": {
+    "rows": 120,
+    "missing_values_injected": 0,
+    "duplicates_injected": 0,
+    "outliers_injected": 0,
+    "categorical_inconsistencies": 0,
+    "invalid_references": 0
+  },
+  "campaign_interactions": {
+    "rows": 40000,
+    "missing_values_injected": 240,
+    "duplicates_injected": 0,
+    "outliers_injected": 0,
+    "categorical_inconsistencies": 80,
+    "invalid_references": 40
+  },
+  "support_tickets": {
+    "rows": 18000,
+    "missing_values_injected": 216,
+    "duplicates_injected": 0,
+    "outliers_injected": 40,
+    "categorical_inconsistencies": 100,
+    "invalid_references": 0
+  },
+  "totals": {
+    "missing_values_injected": 1446,
+    "duplicates_injected": 120,
+    "outliers_injected": 115,
+    "categorical_inconsistencies": 520,
+    "invalid_references": 125
+  }
+}

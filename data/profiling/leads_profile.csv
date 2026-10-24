@@ -1,0 +1,14 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+leads,lead_id,str,15020,0,0.0,15000
+leads,created_date,str,15020,0,0.0,1826
+leads,first_name,str,15020,0,0.0,10
+leads,last_name,str,15020,0,0.0,10
+leads,email,str,15020,88,0.59,14876
+leads,company,str,15020,0,0.0,15000
+leads,country,str,15020,0,0.0,7
+leads,region,str,15020,0,0.0,21
+leads,source,str,15020,0,0.0,6
+leads,industry,str,15020,0,0.0,5
+leads,company_size,str,15020,0,0.0,5
+leads,lead_score,int64,15020,0,0.0,100
+leads,lead_status,str,15020,0,0.0,5

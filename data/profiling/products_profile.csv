@@ -1,0 +1,9 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+products,product_id,str,300,0,0.0,300
+products,product_name,str,300,0,0.0,300
+products,category,str,300,0,0.0,4
+products,subcategory,str,300,0,0.0,12
+products,unit_cost,float64,300,0,0.0,299
+products,unit_price,float64,300,0,0.0,300
+products,launch_date,str,300,0,0.0,285
+products,status,str,300,0,0.0,3

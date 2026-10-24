@@ -1,0 +1,11 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+campaigns,campaign_id,str,120,0,0.0,120
+campaigns,campaign_name,str,120,0,0.0,120
+campaigns,campaign_type,str,120,0,0.0,5
+campaigns,channel,str,120,0,0.0,5
+campaigns,start_date,str,120,0,0.0,113
+campaigns,end_date,str,120,0,0.0,114
+campaigns,budget,float64,120,0,0.0,120
+campaigns,target_segment,str,120,0,0.0,3
+campaigns,region,str,120,0,0.0,5
+campaigns,status,str,120,0,0.0,3

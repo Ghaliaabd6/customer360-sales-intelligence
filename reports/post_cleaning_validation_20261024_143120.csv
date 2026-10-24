@@ -1,0 +1,74 @@
+table,check,status,issue_count,details
+leads,foreign_key_sales_rep_id,FAIL,1,Column sales_rep_id missing
+sales,quantity_positive,FAIL,18,Quantity must be greater than zero
+campaign_interactions,missing_values,WARNING,280,campaign_id=20; customer_id=20; conversion_value=240
+customers,missing_values,WARNING,225,email=105; phone=60; region=60
+leads,missing_values,WARNING,88,email=88
+opportunities,missing_values,WARNING,13726,customer_id=4758; actual_close_date=4210; actual_revenue=4758
+sales,missing_values,WARNING,1525,customer_id=50; product_id=35; unit_price=360; gross_amount=360; discount_amount=360; net_amount=360
+sales,negative_values_discount_amount,WARNING,13,Values expected to be non-negative
+sales,negative_values_gross_amount,WARNING,18,Values expected to be non-negative
+sales,negative_values_net_amount,WARNING,18,Values expected to be non-negative
+sales,negative_values_quantity,WARNING,18,Values expected to be non-negative
+support_tickets,missing_values,WARNING,13798,resolved_date=4639; resolution_hours=4536; satisfaction_score=4623
+campaign_interactions,date_format_interaction_date,PASS,0,Date parsing validation
+campaign_interactions,duplicate_rows,PASS,0,Complete duplicate rows
+campaign_interactions,foreign_key_campaign_id,PASS,0,Reference: campaigns.campaign_id
+campaign_interactions,foreign_key_customer_id,PASS,0,Reference: customers.customer_id
+campaign_interactions,primary_key_interaction_id,PASS,0,null=0; duplicates=0
+campaign_interactions,table_not_empty,PASS,0,40000 rows
+campaigns,campaign_date_consistency,PASS,0,End date must not precede start date
+campaigns,date_format_end_date,PASS,0,Date parsing validation
+campaigns,date_format_start_date,PASS,0,Date parsing validation
+campaigns,duplicate_rows,PASS,0,Complete duplicate rows
+campaigns,missing_values,PASS,0,No missing values
+campaigns,negative_values_budget,PASS,0,Values expected to be non-negative
+campaigns,primary_key_campaign_id,PASS,0,null=0; duplicates=0
+campaigns,table_not_empty,PASS,0,120 rows
+customers,date_format_birth_date,PASS,0,Date parsing validation
+customers,date_format_signup_date,PASS,0,Date parsing validation
+customers,duplicate_rows,PASS,0,Complete duplicate rows
+customers,primary_key_customer_id,PASS,0,null=0; duplicates=0
+customers,table_not_empty,PASS,0,10000 rows
+leads,date_format_created_date,PASS,0,Date parsing validation
+leads,duplicate_rows,PASS,0,Complete duplicate rows
+leads,primary_key_lead_id,PASS,0,null=0; duplicates=0
+leads,table_not_empty,PASS,0,15000 rows
+opportunities,date_format_actual_close_date,PASS,0,Date parsing validation
+opportunities,date_format_created_date,PASS,0,Date parsing validation
+opportunities,date_format_expected_close_date,PASS,0,Date parsing validation
+opportunities,duplicate_rows,PASS,0,Complete duplicate rows
+opportunities,foreign_key_customer_id,PASS,0,Reference: customers.customer_id
+opportunities,foreign_key_sales_rep_id,PASS,0,Reference: sales_representatives.sales_rep_id
+opportunities,negative_values_actual_revenue,PASS,0,Values expected to be non-negative
+opportunities,negative_values_expected_revenue,PASS,0,Values expected to be non-negative
+opportunities,primary_key_opportunity_id,PASS,0,null=0; duplicates=0
+opportunities,probability_range,PASS,0,Expected range: 0 to 1
+opportunities,table_not_empty,PASS,0,6000 rows
+products,date_format_launch_date,PASS,0,Date parsing validation
+products,duplicate_rows,PASS,0,Complete duplicate rows
+products,missing_values,PASS,0,No missing values
+products,negative_values_unit_cost,PASS,0,Values expected to be non-negative
+products,negative_values_unit_price,PASS,0,Values expected to be non-negative
+products,primary_key_product_id,PASS,0,null=0; duplicates=0
+products,table_not_empty,PASS,0,300 rows
+products,unit_price_non_negative,PASS,0,Product price must be non-negative
+sales,date_format_order_date,PASS,0,Date parsing validation
+sales,duplicate_rows,PASS,0,Complete duplicate rows
+sales,foreign_key_customer_id,PASS,0,Reference: customers.customer_id
+sales,foreign_key_product_id,PASS,0,Reference: products.product_id
+sales,foreign_key_sales_rep_id,PASS,0,Reference: sales_representatives.sales_rep_id
+sales,negative_values_unit_price,PASS,0,Values expected to be non-negative
+sales,primary_key_sale_id,PASS,0,null=0; duplicates=0
+sales,table_not_empty,PASS,0,60000 rows
+sales_representatives,date_format_hire_date,PASS,0,Date parsing validation
+sales_representatives,duplicate_rows,PASS,0,Complete duplicate rows
+sales_representatives,missing_values,PASS,0,No missing values
+sales_representatives,primary_key_sales_rep_id,PASS,0,null=0; duplicates=0
+sales_representatives,table_not_empty,PASS,0,80 rows
+support_tickets,date_format_created_date,PASS,0,Date parsing validation
+support_tickets,date_format_resolved_date,PASS,0,Date parsing validation
+support_tickets,duplicate_rows,PASS,0,Complete duplicate rows
+support_tickets,foreign_key_customer_id,PASS,0,Reference: customers.customer_id
+support_tickets,primary_key_ticket_id,PASS,0,null=0; duplicates=0
+support_tickets,table_not_empty,PASS,0,18000 rows

@@ -1,0 +1,47 @@
+table,column,rule,issue_count,severity,status
+customers,customer_id,Customer ID must not be null,0,Critical,PASS
+customers,customer_id,Customer ID must be unique,50,Critical,FAIL
+customers,email,Email must have a valid format,45,High,FAIL
+customers,churn_flag,Churn flag must be 0 or 1,0,High,PASS
+customers,signup_date,Signup date must be a valid date,0,High,PASS
+products,product_id,Product ID must not be null,0,Critical,PASS
+products,product_id,Product ID must be unique,0,Critical,PASS
+products,unit_cost,Unit cost must be greater than 0,0,High,PASS
+products,unit_price,Unit price must be greater than 0,0,High,PASS
+products,unit_price,Unit price should not be lower than unit cost,0,Medium,PASS
+sales_representatives,sales_rep_id,Sales representative ID must not be null,0,Critical,PASS
+sales_representatives,sales_rep_id,Sales representative ID must be unique,0,Critical,PASS
+sales_representatives,email,Sales representative email should not be null,0,Medium,PASS
+sales,sale_id,Sale ID must not be null,0,Critical,PASS
+sales,sale_id,Sale ID must be unique,150,Critical,FAIL
+sales,quantity,Quantity must not be zero,0,High,PASS
+sales,quantity,Negative quantity should be reviewed as a possible return,18,Medium,FAIL
+sales,discount_pct,Discount percentage must be between 0 and 100,0,High,PASS
+sales,customer_id,Customer ID must exist in customers,50,Critical,FAIL
+sales,product_id,Product ID must exist in products,35,Critical,FAIL
+sales,sales_rep_id,Sales representative ID must exist,0,Critical,PASS
+leads,lead_id,Lead ID must not be null,0,Critical,PASS
+leads,lead_id,Lead ID must be unique,40,Critical,FAIL
+leads,lead_score,Lead score must be between 0 and 100,0,High,PASS
+opportunities,opportunity_id,Opportunity ID must not be null,0,Critical,PASS
+opportunities,opportunity_id,Opportunity ID must be unique,0,Critical,PASS
+opportunities,probability,Probability must be between 0 and 100,0,High,PASS
+opportunities,expected_close_date,Expected close date must not be before creation date,0,High,PASS
+opportunities,lead_id,Lead ID must exist in leads,0,Critical,PASS
+opportunities,customer_id,Customer ID must exist when present,0,High,PASS
+opportunities,sales_rep_id,Sales representative ID must exist,0,Critical,PASS
+campaigns,campaign_id,Campaign ID must not be null,0,Critical,PASS
+campaigns,campaign_id,Campaign ID must be unique,0,Critical,PASS
+campaigns,budget,Campaign budget must not be negative,0,High,PASS
+campaigns,end_date,Campaign end date must not be before start date,0,High,PASS
+campaign_interactions,interaction_id,Interaction ID must not be null,0,Critical,PASS
+campaign_interactions,campaign_id,Campaign ID must exist in campaigns,20,Critical,FAIL
+campaign_interactions,customer_id,Customer ID must exist in customers,20,Critical,FAIL
+campaign_interactions,conversion_value,Conversion value must not be negative,0,High,PASS
+support_tickets,ticket_id,Ticket ID must not be null,0,Critical,PASS
+support_tickets,ticket_id,Ticket ID must be unique,0,Critical,PASS
+support_tickets,customer_id,Customer ID must exist in customers,0,Critical,PASS
+support_tickets,resolved_date,Resolved date must not be before created date,15,High,FAIL
+support_tickets,resolution_hours,Resolution hours must not be negative,0,High,PASS
+support_tickets,resolution_hours,Resolution time above 720 hours should be reviewed,25,Medium,FAIL
+support_tickets,satisfaction_score,Satisfaction score must be between 1 and 5,0,High,PASS

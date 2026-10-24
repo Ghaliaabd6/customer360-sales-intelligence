@@ -1,0 +1,13 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+opportunities,opportunity_id,str,6000,0,0.0,6000
+opportunities,lead_id,str,6000,0,0.0,6000
+opportunities,customer_id,str,6000,4758,79.3,1178
+opportunities,sales_rep_id,str,6000,0,0.0,80
+opportunities,created_date,str,6000,0,0.0,1753
+opportunities,expected_close_date,str,6000,0,0.0,1855
+opportunities,actual_close_date,str,6000,4210,70.17,1154
+opportunities,stage,str,6000,0,0.0,6
+opportunities,probability,float64,6000,0,0.0,6
+opportunities,expected_revenue,float64,6000,0,0.0,5999
+opportunities,actual_revenue,float64,6000,4758,79.3,1243
+opportunities,status,str,6000,0,0.0,3

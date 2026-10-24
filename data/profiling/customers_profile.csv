@@ -1,0 +1,17 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+customers,customer_id,str,10025,0,0.0,10000
+customers,first_name,str,10025,0,0.0,10
+customers,last_name,str,10025,0,0.0,10
+customers,email,str,10025,60,0.6,9899
+customers,phone,str,10025,60,0.6,9941
+customers,birth_date,str,10025,0,0.0,8181
+customers,gender,str,10025,0,0.0,3
+customers,signup_date,str,10025,0,0.0,2532
+customers,country,str,10025,0,0.0,10
+customers,region,str,10025,60,0.6,22
+customers,city,str,10025,0,0.0,28
+customers,customer_segment,str,10025,0,0.0,3
+customers,acquisition_channel,str,10025,0,0.0,6
+customers,loyalty_level,str,10025,0,0.0,4
+customers,is_active,bool,10025,0,0.0,2
+customers,churn_flag,bool,10025,0,0.0,2

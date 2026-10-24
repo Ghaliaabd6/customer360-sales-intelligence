@@ -1,0 +1,16 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+sales,sale_id,str,60075,0,0.0,60000
+sales,order_id,str,60075,0,0.0,60000
+sales,order_date,str,60075,0,0.0,1461
+sales,customer_id,str,60075,0,0.0,9981
+sales,product_id,str,60075,0,0.0,301
+sales,sales_rep_id,str,60075,0,0.0,80
+sales,quantity,int64,60075,0,0.0,8
+sales,unit_price,float64,60075,360,0.6,902
+sales,discount_pct,float64,60075,0,0.0,8
+sales,gross_amount,float64,60075,0,0.0,11194
+sales,discount_amount,float64,60075,0,0.0,14485
+sales,net_amount,float64,60075,360,0.6,28011
+sales,sales_channel,str,60075,0,0.0,4
+sales,payment_method,str,60075,0,0.0,7
+sales,region,str,60075,0,0.0,21

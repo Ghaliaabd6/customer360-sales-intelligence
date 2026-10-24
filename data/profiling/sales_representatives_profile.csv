@@ -1,0 +1,10 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+sales_representatives,sales_rep_id,str,80,0,0.0,80
+sales_representatives,first_name,str,80,0,0.0,10
+sales_representatives,last_name,str,80,0,0.0,10
+sales_representatives,email,str,80,0,0.0,80
+sales_representatives,region,str,80,0,0.0,5
+sales_representatives,team,str,80,0,0.0,5
+sales_representatives,hire_date,str,80,0,0.0,80
+sales_representatives,manager_name,str,80,0,0.0,12
+sales_representatives,status,str,80,0,0.0,3

@@ -1,0 +1,10 @@
+table,column,dtype,rows,missing_count,missing_pct,unique_values
+campaign_interactions,interaction_id,str,40000,0,0.0,40000
+campaign_interactions,campaign_id,str,40000,0,0.0,121
+campaign_interactions,customer_id,str,40000,0,0.0,9833
+campaign_interactions,interaction_date,str,40000,0,0.0,1461
+campaign_interactions,channel,str,40000,0,0.0,7
+campaign_interactions,opened,bool,40000,0,0.0,2
+campaign_interactions,clicked,bool,40000,0,0.0,2
+campaign_interactions,converted,bool,40000,0,0.0,2
+campaign_interactions,conversion_value,float64,40000,240,0.6,1191

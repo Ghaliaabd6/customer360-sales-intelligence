@@ -1,0 +1,10 @@
+table,rows,columns,missing_values,duplicate_rows
+customers,10025,16,180,24
+products,300,8,0,0
+sales_representatives,80,9,0,0
+sales,60075,15,720,72
+leads,15020,13,88,20
+opportunities,6000,12,13726,0
+campaigns,120,10,0,0
+campaign_interactions,40000,9,240,0
+support_tickets,18000,11,13783,0
